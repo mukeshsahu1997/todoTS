@@ -1,0 +1,298 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "type": "Learned",
+      "message": "useState",
+      "likes": 2
+    },
+    {
+      "id": 2,
+      "type": "Learned",
+      "message": "useEffect",
+      "likes": 3
+    },
+    {
+      "id": 3,
+      "type": "Learning",
+      "message": "useRef",
+      "likes": 0
+    },
+    {
+      "id": 4,
+      "type": "Pending",
+      "message": "useReducer",
+      "likes": 5
+    },
+    {
+      "id": 5,
+      "type": "Revision",
+      "message": "React-101",
+      "likes": 2
+    },
+    {
+      "id": 6,
+      "likes": 0,
+      "message": "redux",
+      "type": "Pending"
+    },
+    {
+      "id": 7,
+      "likes": 0,
+      "message": "Typescript",
+      "type": "Learning"
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 8
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 15
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 16
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 17
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 18
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 19
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 20
+    },
+    {
+      "message": "ff",
+      "type": "Learned",
+      "likes": 0,
+      "id": 21
+    },
+    {
+      "message": "fffff",
+      "type": "Learned",
+      "likes": 0,
+      "id": 22
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 23
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 24
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 25
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 26
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 27
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 28
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 29
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 30
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 31
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 32
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 33
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 34
+    },
+    {
+      "message": "[hhh",
+      "type": "Learned",
+      "likes": 0,
+      "id": 35
+    },
+    {
+      "message": "ddd",
+      "type": "Learned",
+      "likes": 0,
+      "id": 36
+    },
+    {
+      "message": "ddddd",
+      "type": "Learned",
+      "likes": 0,
+      "id": 37
+    },
+    {
+      "message": "nnnn",
+      "type": "Learned",
+      "likes": 0,
+      "id": 38
+    },
+    {
+      "message": "nnnnggg",
+      "type": "Learned",
+      "likes": 0,
+      "id": 39
+    },
+    {
+      "message": "ddd",
+      "type": "Learning",
+      "likes": 0,
+      "id": 40
+    },
+    {
+      "message": "dddddd",
+      "type": "Pending",
+      "likes": 0,
+      "id": 41
+    },
+    {
+      "message": "ddddddddd",
+      "type": "Revision",
+      "likes": 0,
+      "id": 42
+    },
+    {
+      "message": "dddddddddddd",
+      "type": "Learned",
+      "likes": 0,
+      "id": 43
+    },
+    {
+      "message": "",
+      "type": "Learning",
+      "likes": 0,
+      "id": 44
+    },
+    {
+      "message": "",
+      "type": "Revision",
+      "likes": 0,
+      "id": 45
+    },
+    {
+      "message": "",
+      "type": "Revision",
+      "likes": 0,
+      "id": 46
+    },
+    {
+      "message": "",
+      "type": "Learning",
+      "likes": 0,
+      "id": 47
+    },
+    {
+      "message": "",
+      "type": "Learned",
+      "likes": 0,
+      "id": 48
+    },
+    {
+      "message": "",
+      "type": "Pending",
+      "likes": 1,
+      "id": 49
+    }
+  ]
+}
